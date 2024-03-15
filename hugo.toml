@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+publishDir = "docs"
+title = '疲惫老奶想变成精神小妹'
+theme = 'ananke'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 疲惫老奶想变成精神小妹</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 疲惫老奶想变成精神小妹</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 11:54:24 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Mar 2024 11:54:24 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>新闻标题 这次旅程对我来说，是一次前所未有的体验，更是一堂别开生面的教学实践活动课，千言万语也难以说尽。 出发前一晚，得知要出差去北京时，我的心情首先是激动万分。由于时间紧迫，收到通知后，老师便立即召开了线上会议。老师介绍了此行的目的和工作安排，我的心情转而变得惶恐、紧张和忐忑不安。一方面，要与业内的大咖们交流接触，我害怕自己会怯场；另一方面，我有严重的镜头恐惧症，而且几乎没有视频制作的经验，我真的很担心自己能否顺利完成这次工作。 怀揣着惶恐与激动并存的复杂心情，我们在三月六日的夜晚踏上了这段充满期待的旅程。</description>
+    </item>
+  </channel>
+</rss>
